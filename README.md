@@ -2,16 +2,11 @@
 
 <h1 align="center">Hey there! 👋</h1>
 
+
+
 ###
+
 <div align="center">
-  <img align="left" height="350" src="https://www.paugalan.es/static/media/avatar-small.0e6b17c34ce413338fa6.webp"  />
-</div>
-
-
-
-###
-
-<div align="left">
   <a href="www.linkedin.com/in/paugalan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
