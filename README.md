@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Pau Galan from Barcelona<br><br>- 🔭 I am working on a website to help people to give better feedback about public transport and increase its use. <br>- 📚 I am learning about UI/UX in more depth.<br>- ⚡ In my free time I like 3d modeling</p>
+<p align="left">I'm Pau Galan from Barcelona, a Software engineer with more then 2 year in the industry. <br><br>- 🔭 I am working on a website to help people to give better feedback about public transport and increase its use. <br>- 📚 I am learning about UI/UX in more depth.<br>- ⚡ In my free time I like 3d modeling</p>
 
 <br clear="both">
 
